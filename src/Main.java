@@ -11,7 +11,7 @@ public class Main {
         if (num % 2 == 0) {
             System.out.println("Par");
         } else {
-            System.out.println("Ímparrrrrr");
+            System.out.println("Ímparrrr");
         }
         for (int i = 1; i <= 2; i++) {
             System.out.println("Números:" + i);
